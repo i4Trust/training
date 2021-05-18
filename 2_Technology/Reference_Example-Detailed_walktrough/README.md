@@ -59,7 +59,7 @@ Material about PEP/PDP Proxy API-Umbrella
 * [Manual](https://api-umbrella.readthedocs.io/en/latest/)
 * [GitHub](https://github.com/FIWARE/api-umbrella)
 * [i4Trust development branch](https://github.com/FIWARE/api-umbrella/tree/i4trust-attr-policies)
-* [Docker image (fiware/api-umbrella:i4trust-rc3)](https://hub.docker.com/repository/docker/fiware/api-umbrella)
+* [Docker image (fiware/api-umbrella:i4trust-rc4)](https://hub.docker.com/repository/docker/fiware/api-umbrella)
 
 
 

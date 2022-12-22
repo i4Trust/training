@@ -1,6 +1,7 @@
-# Detailed walkthrough of the reference example
+# Specific components for Data Spaces
 
-Material about all the components included in the detailed walkthrough of the reference example.
+Material about all the specific components that can be used to build data spaces, which were also 
+included in the detailed walkthrough of the reference example.
 
 
 ## Useful links

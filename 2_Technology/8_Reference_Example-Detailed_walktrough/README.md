@@ -57,7 +57,7 @@ Material about Keyrock Identity Provider
 Material about the Orion Context Broker
 
 * [Manual](https://fiware-orion.readthedocs.io/en/master/)
-* [Docker image (fiware/orion-ld:0.7.0)](https://hub.docker.com/repository/docker/fiware/orion-ld)
+* [Docker image (fiware/orion-ld)](https://hub.docker.com/repository/docker/fiware/orion-ld)
 
 
 

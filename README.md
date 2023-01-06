@@ -14,7 +14,7 @@ The following recordings explain the contents of the slide decks
 
 -  [Introduction to i4Trust](https://www.youtube.com/watch?v=CSG22f0AfOw)
 -  [Plenary Mentoring Session Part 1](https://www.youtube.com/watch?v=_XuJkb1oMxM)
--  [Plenary Mentoring Session Part 2](https://www.youtube.com/watch?v=)
+-  [Plenary Mentoring Session Part 2](https://www.youtube.com/watch?v=YXxmPeY01vI)
 -  [Components for Identity and Access Management](https://www.youtube.com/watch?v=8ZefBcGFOXI)
 -  [Digital Twin programming primer NGSI LD basics Smart Data Models](https://www.youtube.com/watch?v=m-i5_2lhmcM)
 -  [iSHARE Trust Framework](https://www.youtube.com/watch?v=_bvXbmvY8e8)
